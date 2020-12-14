@@ -1,0 +1,72 @@
+{
+	// Place your wow-notes workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Healing Tide": {
+		"prefix": "healingtide",
+		"body": "{spell:108280} Healing Tide Totem"
+	},
+	"Avenging Wrath": {
+		"prefix": "avengingwrath",
+		"body": [
+			"{spell:31884} Avenging Wrath"
+		]
+	},
+	"Spirit Shell": {
+		"prefix": "spiritshell",
+		"body": "{spell:114908} Spirit Shell"
+	},
+	"Soul Link Totem": {
+		"prefix": "soullinktotem",
+		"body": "{spell:98008} Soul Link Totem"
+	},
+	"Incarnation Tree": {
+		"prefix": "incarnationtree",
+		"body": "{spell:33891} Incarnation Tree"
+	},
+	"Power Word: Barrier": {
+		"prefix": "barrier",
+		"body": "{spell:62618} Barrier"
+	},
+	"Tranquility": {
+		"prefix": "tranquility",
+		"body": "{spell:740} Tranq"
+	},
+	"Ascheweihung": {
+		"prefix": "ascheweihung",
+		"body": "{spell:316958} Ascheweihung"
+	},
+	"Lolheal": {
+		"prefix": "lolheal",
+		"body": "{Priest} [Lolheal]"
+	},
+	"Amoxa": {
+		"prefix": "amoxa",
+		"body": "{Shaman} [Amoxa]"
+	},
+	"Nesailer": {
+		"prefix": "nesailer",
+		"body": "{Druid} [Nesailer]"
+	},
+	"Luzifer": {
+		"prefix": "luzifer",
+		"body": "{Paladin} [Luzifer]"
+	},
+	"paladin": {
+		"prefix": "paladin",
+		"body": "{Paladin}"
+	},
+}
