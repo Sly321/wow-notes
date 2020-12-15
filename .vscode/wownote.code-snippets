@@ -88,6 +88,10 @@
 		"prefix": "deathknight",
 		"body": "{Death Knight}"
 	},
+	"warrior": {
+		"prefix": "warrior",
+		"body": "{Warrior}"
+	},
 	// items
 	"healingpotion": {
 		"prefix": "healingpotion",
