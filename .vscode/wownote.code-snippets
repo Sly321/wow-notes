@@ -46,6 +46,10 @@
 		"prefix": "antimagiczone",
 		"body": "{spell:51052} Anti Magic Zone"
 	},
+	"shout": {
+		"prefix": "shout",
+		"body": "{spell:97462} Shout"
+	},
 	// characters
 	"Lolheal": {
 		"prefix": "lolheal",

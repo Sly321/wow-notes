@@ -1,0 +1,22 @@
+{Druid} [Nesailer] 2 Kugeln
+{Shaman} [Amoxa] 1 Kugel
+{Paladin} 1 Kugel
+{Priest} [Lolheal] Fokus auf Raid
+
+Heal Prio: Raid > Behälter > Kael'Thas
+
+Rotierend (jeweils wenn der davor auf CD ist)
+
+{Priest} [Lolheal] {spell:147536} Rapture
+{Druid} [Nesailer] {spell:740} Tranq
+{Paladin} [Paladin] {spell:31884} Avenging Wrath
+{Shaman} [Amoxa] {spell:108280} Healing Tide Totem
+{Shaman} [Amoxa] {spell:114052} Ascendance
+
+Big Cooldowns Call Reihenfolge (jeweils wenn der davor auf CD ist)
+
+{Priest} [Shadows] {spell:15286} Vampiric Embrace
+{Priest} [Lolheal] {spell:62618} Barrier
+{Shaman} [Amoxa] {spell:98008} Soul Link Totem
+{Warrior} [Gory] {Warrior} {spell:97462} Shout
+{Demon Hunter} [Casy] {spell:320420} Darkness
