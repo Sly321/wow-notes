@@ -1,13 +1,16 @@
-0:30: {Priest} [Lolheal] {spell:114908} Spirit Shell
-0:50: {Druid} [Nesailer] {spell:740} Tranq
-1:10: {Paladin} [2 x Paladine] {spell:31884} Avenging Wrath
-1:40: {Shaman} [Amoxa] {spell:108280} Healing Tide Totem
-2:05: {Priest} [Lolheal] {spell:114908} Spirit Shell
-2:15: {Paladin} [Luzifer] {spell:316958} Ascheweihung
-2:55: {Druid} [Nesailer] {spell:740} Tranq
-3:15: {Paladin} [2 x Paladine] {spell:31884} Avenging Wrath
-3:25: {Druid} [Nesailer] {spell:33891} Incarnation Tree
-4:00: {Priest} [Lolheal] {spell:62618} Barrier
-4:00: {Shaman} [Amoxa] {spell:98008} Soul Link Totem
-4:25: {Priest} [Lolheal] {spell:114908} Spirit Shell
-4:40: {Shaman} [Amoxa] {spell:108280} Healing Tide Totem
+Wenig Damage Spitzen über den Kampf, daher rotierend CDs.
+
+Rotierend (jeweils wenn der davor auf CD ist)
+
+{Priest} [Lolheal] {spell:114908} Spirit Shell
+{Druid} [Nesailer] {spell:740} Tranq
+{Paladin} [2 x Paladin] {spell:31884} Avenging Wrath
+{Shaman} [Amoxa] {spell:108280} Healing Tide Totem
+
+Big Cooldowns Call Reihenfolge (jeweils wenn der davor auf CD ist)
+
+{Priest} [Shadows] {spell:15286} Vampiric Embrace
+{Priest} [Lolheal] {spell:62618} Barrier
+{Shaman} [Amoxa] {spell:98008} Soul Link Totem
+{Demon Hunter} [Casy] {spell:320420} Darkness
+{Paladin} [Luzifer] {spell:316958} Ascheweihung
